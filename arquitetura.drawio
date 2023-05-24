@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram id="lZeyi6Va3kGheQO_N0Hy" name="Page-1">
+        <mxGraphModel dx="1130" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="3" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font color=&quot;#ffffff&quot;&gt;API &lt;br&gt;Java (Spring Boot&lt;br&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_1;" vertex="1" parent="1">
+                    <mxGeometry x="162.5" y="220" width="120" height="77.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="4" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font color=&quot;#ffffff&quot;&gt;API &lt;br&gt;Java (Spring Boot&lt;br&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_1;" vertex="1" parent="1">
+                    <mxGeometry x="312.5" y="220" width="120" height="77.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="5" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font color=&quot;#ffffff&quot;&gt;API &lt;br&gt;Java (Spring Boot&lt;br&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_1;" vertex="1" parent="1">
+                    <mxGeometry x="462.5" y="220" width="120" height="77.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Load Balancer" style="whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=none;verticalAlign=bottom;fontSize=19;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="180" width="545" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="PostgreSQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;sketch=0;fontColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="30" width="125" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;entryX=0.434;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;" edge="1" parent="1" source="12" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;sketch=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="162.5" y="570" width="35" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="15" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;sketch=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="342.5" y="570" width="35" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="16" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;sketch=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="542.5" y="570" width="35" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
