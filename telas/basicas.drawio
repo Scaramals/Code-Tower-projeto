@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="EOFBLvs9dUq9dqeT_brS" name="Page-1">
-        <mxGraphModel dx="538" dy="1466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1614" dy="2199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -25,13 +25,25 @@
                     <mxGeometry x="630" y="420" width="220" height="260" as="geometry"/>
                 </mxCell>
                 <mxCell id="17" value="Pesquisar música a ser adicionada" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="930" width="170" height="350" as="geometry"/>
+                    <mxGeometry x="960" y="-80" width="200" height="420" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" style="edgeStyle=none;html=1;" edge="1" parent="1" source="19" target="17">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="Músicas que já foram adicionadas, nõa podem ser novamente adicionadas (deve aparecer uma mensagem avisando que está na playlist ou na lista de votação)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="950" y="420" width="220" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Tela da playlist principal&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1295" y="-80" width="210" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22" target="21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Mostra as músicas que estão na playlist e prontas para serem tocadas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1290" y="430" width="220" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Tela do Admin selecionar as playlist que podem tocar, caso nenhum música esteja na playlist principal (que leva à votação)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1620" y="-80" width="230" height="420" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
