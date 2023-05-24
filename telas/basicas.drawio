@@ -1,0 +1,33 @@
+<mxfile host="65bd71144e">
+    <diagram id="EOFBLvs9dUq9dqeT_brS" name="Page-1">
+        <mxGraphModel dx="1329" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Login" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="60" width="170" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Cadastro" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="60" width="170" height="275" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="690.2857142857142" y="59.57142857142867" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="Tela inicial.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="605" y="-90" width="170" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Aqui ficariam: 1. música que está tocando, 2. opção de pesquisar música para ser adicionada 3. Músicas em votação (5). Deve ser mostrado, nas músicas, o nome de quem sugeriu (ou falar que é anônimo). Não deve ser mostrada a quantidade de votos (para não criar viéses nos próximos votos), e nem devem ser mostradas as pessoas que votaram.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="420" width="220" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Pesquisar música a ser adicionada" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="930" width="170" height="350" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
